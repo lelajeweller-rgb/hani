@@ -1,0 +1,6 @@
+{
+  "name": "PYTHON MASTER – B.Tech Learning Academy",
+  "description": "Complete step-by-step multilingual Python programming learning platform, coding playground, AI tutor, and exam prep for Indian B.Tech CSE students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
